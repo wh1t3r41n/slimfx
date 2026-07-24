@@ -1,0 +1,20 @@
+struct config {
+	version = 330 core;
+} shader;
+
+const float Pi = 30.0f;
+int x = 10;
+
+struct vertex {
+	int main() {
+	}
+} shader;
+
+struct uniforms {
+} shader;
+
+struct fragment {
+	int main() {}
+} shader;
+
+struct sampler2d {} texture;
